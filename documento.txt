@@ -1,2 +1,3 @@
 Meu primeiro Git
-minha primeira alteração
+minha primeira alteração!
+minha segunda aletração!
